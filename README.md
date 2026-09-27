@@ -1,99 +1,64 @@
+<!-- ======================= HEADER ======================= -->
 
-# Hi, I'm Pranjal 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Pranjal&fontSize=65&fontAlignY=38&desc=AI%2FML%20Researcher%20%7C%20LLM%20Engineer%20%7C%20AI%20Builder&descAlignY=60&animation=twinkling" width="100%"/>
+</p>
 
-### AI/ML Researcher | LLMs & NLP | Speech AI | Deep Learning
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=AI%2FML+Researcher+%26+Builder;Large+Language+Models+%7C+RAG+%7C+NLP;Speech+AI+%7C+Speaker+Verification;Deep+Learning+%7C+Applied+AI+Research;Building+intelligent+systems+for+real-world+problems" />
+</p>
 
-I am a Computer Science and Engineering student specializing in Artificial Intelligence at Bennett University, passionate about building intelligent systems that solve real-world problems.
-
-My interests span **Large Language Models, Retrieval-Augmented Generation (RAG), Natural Language Processing, Speech AI, Computer Vision, and Applied Machine Learning Research.**
-
-I enjoy working at the intersection of research and engineering—transforming ideas into practical, scalable AI applications.
-
----
-
-## 🔬 Research & Technical Interests
-
-- Large Language Models (LLMs) and Retrieval-Augmented Generation
-- Natural Language Processing and Machine Translation
-- Speech AI, Speaker Verification, and Anti-Spoofing
-- Deep Learning and Explainable AI
-- Computer Vision and AI for Healthcare
-- Applied AI Research and Real-World AI Systems
+<p align="center">
+  <a href="https://github.com/Pranjal099">
+    <img src="https://komarev.com/ghpvc/?username=Pranjal099&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 👋 Hi, I'm Pranjal
 
-### 🎙️ VoicePay — AI-Powered Voice Payment Authentication
-An AI-powered voice payment system integrating:
+🎓 **B.Tech Computer Science & Engineering — AI @ Bennett University**
 
-- Speaker Verification using ECAPA-TDNN
-- Automatic Speech Recognition using Whisper
-- Anti-Spoofing using AASIST
-- Voice-based payment intent and amount extraction
-- FastAPI backend and mobile application integration
+🔬 **AI/ML Researcher & Builder**
 
-### 🛡️ SOAR-X — Explainable AI for Cybersecurity
-An explainable AI-based cybersecurity system focused on phishing detection, machine learning classification, and model interpretability using SHAP.
+I work at the intersection of **research and engineering**, building practical AI systems across:
 
-### 🔐 SYNQ — Secure Messaging Application
-A secure messaging application exploring modern cryptographic protocols, encrypted communication, and privacy-preserving messaging.
+- 🧠 Large Language Models & RAG
+- 💬 Natural Language Processing
+- 🎙️ Speech AI & Voice Biometrics
+- 🤖 Deep Learning
+- 👁️ Computer Vision
+- 🔬 Applied AI Research
 
-### 📈 AI-Based Option Price Prediction
-A deep learning project comparing neural network-based option pricing models with the Black–Scholes baseline on financial market data.
-
-### 🌐 Kokborok-to-English Neural Machine Translation
-A neural machine translation project focused on low-resource indigenous language translation and digital language preservation.
+I enjoy taking ideas from **research → implementation → experimentation → deployable systems**.
 
 ---
 
-## 📚 Publication
+# 🧠 Research & Technical Interests
 
-**Developing a Neural Machine Translation Tool for Kokborok-to-English: A Step Toward Preserving Indigenous Languages**
+```text
+LLMs & RAG
+     │
+     ├── Retrieval Systems
+     ├── Embeddings
+     ├── Prompt Engineering
+     └── LLM Applications
 
-Published research chapter in CRC Press (Taylor & Francis).
+NLP
+     │
+     ├── Machine Translation
+     ├── Text Understanding
+     └── Multilingual AI
 
-[View Publication](https://doi.org/10.1201/9781003743767-121)
+Speech AI
+     │
+     ├── Speaker Verification
+     ├── Anti-Spoofing
+     └── Automatic Speech Recognition
 
----
-
-## 🧠 Technical Skills
-
-**Languages:** Python, C++, SQL
-
-**Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Deep Learning
-
-**AI & NLP:** Transformers, LLMs, RAG, Machine Translation, Whisper
-
-**Speech AI:** Speaker Verification, ECAPA-TDNN, Anti-Spoofing, ASR
-
-**Computer Vision:** OpenCV, Image Processing, U-Net, ResNet
-
-**Frameworks & Tools:** FastAPI, Streamlit, Flutter, Git, GitHub, Linux, Jupyter, Google Colab
-
----
-
-## 🌱 Currently Learning
-
-- Advanced LLM Engineering and RAG Systems
-- Transformer Architecture and Fine-Tuning
-- AI System Design and Deployment
-- MLOps and Production-Ready Machine Learning
-- Research Methodology and Model Evaluation
-
----
-
-## 📊 GitHub Activity
-
-I use GitHub to document my learning journey, research implementations, experiments, and real-world AI projects.
-
----
-
-## 🤝 Let's Connect
-
-- **LinkedIn:** [Pranjal](https://www.linkedin.com/in/pranjal99/)
-- **GitHub:** [Pranjal099](https://github.com/Pranjal099)
-
----
-
-⭐ If you find my projects interesting, feel free to explore my repositories!
+Deep Learning
+     │
+     ├── Transformers
+     ├── CNN / RNN
+     └── Explainable AI
