@@ -143,11 +143,16 @@ Research on low-resource Kokborok-to-English neural machine translation using Me
 
 ## Credentials
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Research Paper Presentation
 
-**ICSDS-2025 · 20–21 December 2025**
+**ICSDS-2025**  
+20–21 December 2025
 
-Presented the research paper:
+Presented:
 
 *Developing a Neural Machine Translation Tool for Kokborok-to-English: A Step Toward Preserving Indigenous Languages*
 
@@ -155,7 +160,7 @@ Presented the research paper:
   <img
     src="./assets/credentials/icsds-2025-presentation-certificate.png"
     alt="ICSDS-2025 Certificate of Presentation"
-    width="720">
+    width="460">
 </a>
 
 <br>
@@ -166,11 +171,14 @@ View certificate
 </a>
 </sub>
 
-<br><br>
+</td>
+
+<td width="50%" valign="top">
 
 ### Research Internship
 
-**IIIT Naya Raipur · 27 May – 10 July 2026**
+**IIIT Naya Raipur**  
+27 May – 10 July 2026
 
 Six-week AI/ML research internship through the IIIT-NR Outreach Program.
 
@@ -178,7 +186,7 @@ Six-week AI/ML research internship through the IIIT-NR Outreach Program.
   <img
     src="./assets/credentials/iiitnr-internship-certificate.png"
     alt="IIIT Naya Raipur Research Internship Certificate"
-    width="720">
+    width="460">
 </a>
 
 <br>
@@ -188,6 +196,10 @@ Six-week AI/ML research internship through the IIIT-NR Outreach Program.
 View certificate
 </a>
 </sub>
+
+</td>
+</tr>
+</table>
 
 <a id="contact"></a>
 
