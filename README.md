@@ -6,6 +6,7 @@
     alt="PRANJAL — AI/ML Research · NLP · Speech AI · Explainable AI"
     width="100%">
 </picture>
+
 <p align="center">
   <a href="#about">About</a> ·
   <a href="#research">Research</a> ·
@@ -20,116 +21,265 @@
 
 ## About
 
-I am an AI/ML researcher and engineer working across language, speech, explainability, and secure AI. My work combines model development and evaluation with end-to-end implementation, including deployed APIs, mobile applications, and research prototypes.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-**B.Tech Computer Science & Engineering (AI)** · Bennett University · 2024–2028 · **CGPA 8.8**
+### AI/ML Researcher · Builder
 
-### Research focus
+I work across **language, speech, explainability, and secure AI** — from model development and evaluation to deployed APIs, mobile applications, and research prototypes.
 
-Building and evaluating AI systems across **NLP, LLMs/RAG, speech AI, and trustworthy AI**, with an emphasis on measurable model performance and practical deployment.
+<br>
 
-**Language & Foundation Models** — NLP · LLMs/RAG · Machine Translation  
-**Speech & Biometrics** — Speech AI · Speaker Verification · ASR  
-**Trustworthy AI** — Explainable AI · Secure AI · Cybersecurity
+**B.Tech Computer Science & Engineering (AI)**  
+Bennett University · 2024–2028 · **CGPA 8.8**
+
+</td>
+
+<td width="42%" valign="top">
+
+### Research map
+
+🧠 **Language**  
+NLP · LLMs/RAG · Machine Translation
+
+🎙️ **Speech**  
+Speaker Verification · ASR · Anti-Spoofing
+
+🔐 **Trustworthy AI**  
+Explainable AI · Secure AI · Cybersecurity
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<strong>LANGUAGE</strong><br>
+<sub>NLP · LLMs · RAG · NMT</sub>
+</td>
+
+<td align="center" width="25%">
+<strong>SPEECH</strong><br>
+<sub>ASV · ASR · Anti-Spoofing</sub>
+</td>
+
+<td align="center" width="25%">
+<strong>TRUST</strong><br>
+<sub>XAI · Security · Evaluation</sub>
+</td>
+
+<td align="center" width="25%">
+<strong>DEPLOYMENT</strong><br>
+<sub>FastAPI · Flutter · APIs</sub>
+</td>
+</tr>
+</table>
 
 <a id="research"></a>
 
 ## Research
 
-**Machine Translation** — Low-resource Kokborok → English NMT using Meta M2M100  
-**Speech AI** — Speaker verification, anti-spoofing, ASR, voice-based authentication  
-**Explainable AI** — Feature-level model explanations and security risk interpretation  
-**Financial ML** — Deep residual correction of Black–Scholes option prices  
-**Secure AI** — Voice payment authentication and cyber-threat detection
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Research methods:** Fine-tuning · Neural machine translation · Speaker verification · ASR · Anti-spoofing · Explainable AI · Model evaluation · Data preprocessing
+### Language & Foundation Models
+
+**Machine Translation**  
+Low-resource Kokborok → English NMT using Meta M2M100.
+
+**LLMs / RAG**  
+Retrieval-augmented and language-model based AI systems.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Speech & Biometrics
+
+**Speaker Verification**  
+ECAPA-TDNN based voice authentication.
+
+**Speech Recognition**  
+Whisper-based speech-to-text and intent extraction.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Explainable & Trustworthy AI
+
+**Explainable AI**  
+Feature-level explanations and model interpretation.
+
+**Security**  
+AI systems for secure authentication and cyber-threat detection.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Financial ML
+
+**Option Pricing**  
+Deep residual correction of Black–Scholes European option prices using sequence models.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+**Research methods**
+
+`Fine-tuning` · `Neural Machine Translation` · `Speaker Verification` · `ASR` · `Anti-Spoofing` · `Explainable AI` · `Model Evaluation` · `Data Preprocessing`
+
+<p align="center">
+<sub>Research → Experiment → Evaluate → Deploy</sub>
+</p>
 
 <a id="projects"></a>
 
-## Featured projects
+## Selected Work
 
-### 01 — Kokborok → English Neural Machine Translation
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A low-resource neural machine translation system developed for Kokborok → English translation.
+### 01 · Kokborok → English NMT
 
-- ~**38,000** sentence pairs
-- **M2M100-418M** fine-tuned with PyTorch and Hugging Face Transformers
-- Test set: **100 Kokborok sentences**
-- **BLEU 70.56 · METEOR 0.76 · ROUGE-L 0.80**
-- End-to-end contribution: corpus construction, cleaning, preprocessing, model implementation, fine-tuning, evaluation, error analysis, code, and paper writing
-- **Published in 2026 — CRC Press / Taylor & Francis**
+Low-resource neural machine translation for Kokborok → English.
 
-**[Repository](https://github.com/Pranjal099/kokborok-english-neural-machine-translation) · [DOI](https://doi.org/10.1201/9781003743767-121) · [Google Scholar](https://scholar.google.com/citations?user=k59ikhAAAAAJ&hl=en)**
+**38K** sentence pairs  
+**M2M100-418M** · PyTorch · Transformers
 
----
+**BLEU 70.56**  
+**METEOR 0.76** · **ROUGE-L 0.80**
 
-### 02 — VoicePay
+Published in **2026** — CRC Press / Taylor & Francis.
 
-An end-to-end voice payment research prototype combining speaker verification, anti-spoofing, speech recognition, payment intent extraction, and mobile deployment.
+<a href="https://github.com/Pranjal099/kokborok-english-neural-machine-translation">Repository</a> ·
+<a href="https://doi.org/10.1201/9781003743767-121">DOI</a> ·
+<a href="https://scholar.google.com/citations?user=k59ikhAAAAAJ&hl=en">Scholar</a>
 
-- **ECAPA-TDNN** speaker verification
-- **AASIST** anti-spoofing
-- **Whisper** speech recognition
-- **Flutter** + **FastAPI** + **SQLite**
-- Authentication, enrollment, payment confirmation, QR payment, and end-to-end integration
-- **186 speakers · 9,660 training utterances · 1,074 validation utterances**
-- Fixed evaluation protocol: **5,000 genuine/impostor trials**
-- Pretrained ECAPA baseline **EER 5.88%** → fine-tuned ECAPA **EER 3.52%**
-- Completed research prototype + deployed
+</td>
 
-**[Mobile Repository](https://github.com/Pranjal099/Voicepay) · [Backend Repository](https://github.com/Pranjal099/voice-auth-api) · [Release](https://github.com/Pranjal099/Voicepay/releases/tag/v1.0.0) · [Deployment](https://huggingface.co/spaces/Pranjal99/voicepay-HF)**
+<td width="50%" valign="top">
 
----
+### 02 · VoicePay
 
-### 03 — Deep Residual Correction of Black–Scholes European Option Prices Using an LSTM-Transformer Network
+End-to-end voice payment research prototype combining speaker verification, anti-spoofing, ASR, payment intent extraction, and mobile deployment.
+
+**186** speakers  
+**9,660** training · **1,074** validation
+
+**5,000** genuine/impostor trials
+
+ECAPA-TDNN · AASIST · Whisper · Flutter · FastAPI · SQLite
+
+**EER 5.88% → 3.52%**
+
+<a href="https://github.com/Pranjal099/Voicepay">Mobile</a> ·
+<a href="https://github.com/Pranjal099/voice-auth-api">Backend</a> ·
+<a href="https://github.com/Pranjal099/Voicepay/releases/tag/v1.0.0">Release</a> ·
+<a href="https://huggingface.co/spaces/Pranjal99/voicepay-HF">Deployment</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 03 · Deep Residual Option Pricing
+
+**Deep Residual Correction of Black–Scholes European Option Prices Using an LSTM-Transformer Network**
 
 Research on learning residual corrections to Black–Scholes European option prices using deep sequence models.
 
-- AI-based option pricing research comparing learned corrections with the Black–Scholes framework
-- Research paper **in preparation**
-- Collaboration involving researchers associated with **IIT Patna, IIM Ahmedabad, and Bennett University**
+**Research paper in preparation**
 
-**Repository:** to be added when confirmed
+Collaboration involving researchers associated with **IIT Patna, IIM Ahmedabad, and Bennett University**.
 
----
+<sub>Repository to be added when confirmed.</sub>
 
-### 04 — SOAR-X
+</td>
 
-**Security Orchestration, Automation & Response using Explainable AI** for cyber-threat detection.
+<td width="50%" valign="top">
 
-- **9M+ network records**
-- Random Forest benign/malicious classification
-- Feature selection using model importance
-- **SHAP** explanations for individual predictions
-- Risk scores and severity levels
-- **FastAPI** inference backend
-- Frontend deployed on **Vercel**
-- Personal contribution: data processing, ML pipeline, model training/optimization, explainability, and security insight generation
-- **Live / deployed**
+### 04 · SOAR-X
 
-**[Repository](https://github.com/Pranjal099/SoarX)**
+**Security Orchestration, Automation & Response using Explainable AI**
+
+**9M+** network records  
+Random Forest classification  
+SHAP feature-level explanations  
+Risk scores · Severity levels  
+FastAPI inference · Vercel deployment
+
+Personal contribution: data processing, ML pipeline, model training/optimization, explainability, and security insight generation.
+
+<a href="https://github.com/Pranjal099/SoarX">Repository</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+<sub>
+Selected work spans research, experimentation, engineering, and deployment.
+</sub>
+</p>
 
 <a id="experience"></a>
 
 ## Experience
 
-### Research Intern — Biomedical and Speech Processing Lab
+<table>
+<tr>
+<td width="70%" valign="top">
 
-**IIIT Naya Raipur · 27 May – 10 July 2026**
+### Research Intern
+**Biomedical and Speech Processing Lab · IIIT Naya Raipur**
 
-Six-week research internship focused on an end-to-end AI-powered voice payment application.
+**27 May – 10 July 2026 · 6 weeks**
 
-**ECAPA-TDNN · AASIST · Whisper · Flutter · FastAPI · SQLite · End-to-end deployment**
+End-to-end AI-powered voice payment application developed through the IIIT-NR Outreach Program.
+
+**ECAPA-TDNN** · **AASIST** · **Whisper** · **Flutter** · **FastAPI** · **SQLite**
 
 **Mentors:** Dr. Anurag Singh · Er. Om Nath Singh
 
-### Research collaborations
+</td>
 
-**Option Pricing Research** — collaboration involving IIT Patna, IIM Ahmedabad, and Bennett University.
+<td width="30%" valign="top">
+
+### Research collaboration
+
+**Option Pricing Research**
+
+IIT Patna  
+IIM Ahmedabad  
+Bennett University
+
+</td>
+</tr>
+</table>
 
 <a id="publications"></a>
 
-## Publications
+## Publication
+
+<table>
+<tr>
+<td valign="top">
 
 ### Developing a Neural Machine Translation Tool for Kokborok-to-English: A Step Toward Preserving Indigenous Languages
 
@@ -139,7 +289,15 @@ Six-week research internship focused on an end-to-end AI-powered voice payment a
 
 Research on low-resource Kokborok-to-English neural machine translation using Meta's M2M100 multilingual model.
 
-**[DOI](https://doi.org/10.1201/9781003743767-121) · [Google Scholar](https://scholar.google.com/citations?user=k59ikhAAAAAJ&hl=en) · [Repository](https://github.com/Pranjal099/kokborok-english-neural-machine-translation)**
+<br>
+
+<a href="https://doi.org/10.1201/9781003743767-121">DOI</a> ·
+<a href="https://scholar.google.com/citations?user=k59ikhAAAAAJ&hl=en">Google Scholar</a> ·
+<a href="https://github.com/Pranjal099/kokborok-english-neural-machine-translation">Repository</a>
+
+</td>
+</tr>
+</table>
 
 <a id="credentials"></a>
 
@@ -147,6 +305,7 @@ Research on low-resource Kokborok-to-English neural machine translation using Me
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### Research Paper Presentation
@@ -200,6 +359,7 @@ View certificate
 </sub>
 
 </td>
+
 </tr>
 </table>
 
@@ -207,10 +367,28 @@ View certificate
 
 ## Contact
 
-Interested in research collaborations across **NLP, Speech AI, Explainable AI, and Secure AI**.
+<table>
+<tr>
+<td valign="top">
 
-**[LinkedIn](https://www.linkedin.com/in/pranjal99/) · [Google Scholar](https://scholar.google.com/citations?user=k59ikhAAAAAJ&hl=en) · [Personal Email](mailto:pranjalofficial32@gmail.com)**
+Interested in research collaborations across:
 
----
+**NLP · Speech AI · Explainable AI · Secure AI**
 
-<sub>Published, ongoing, and deployed work are labeled separately.</sub>
+</td>
+
+<td valign="top">
+
+<a href="https://www.linkedin.com/in/pranjal99/">LinkedIn</a> ·
+<a href="https://scholar.google.com/citations?user=k59ikhAAAAAJ&hl=en">Google Scholar</a> ·
+<a href="mailto:pranjalofficial32@gmail.com">Email</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+<sub>Published · Ongoing · Deployed</sub>
+</p>
