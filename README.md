@@ -50,7 +50,7 @@ I work across **language, speech, explainability, and secure AI** — from model
 </td>
 
 <td align="center" valign="top" width="25%">
-<img src="assets/icons/deploy.svg" width="44" alt=""><br>
+<img src="assets/deploy.svg" width="44" alt=""><br>
 <strong>DEPLOYMENT</strong><br>
 <sub>FastAPI · Flutter · APIs</sub>
 </td>
@@ -60,14 +60,14 @@ I work across **language, speech, explainability, and secure AI** — from model
 
 <a id="research"></a>
 
-## <img src="assets/icons/research.svg" alt="" width="32" height="32" align="absmiddle"> Research
+## <img src="assets/research.svg" alt="" width="32" height="32" align="absmiddle"> Research
 
 <table>
 <tr>
 
 <td valign="top" width="50%">
 
-<img src="assets/icons/language.svg" width="44" alt="">
+<img src="assets/language.svg" width="44" alt="">
 
 ### Language & Foundation Models
 
@@ -79,7 +79,7 @@ I work across **language, speech, explainability, and secure AI** — from model
 
 <td valign="top" width="50%">
 
-<img src="assets/icons/speech.svg" width="44" alt="">
+<img src="assets/speech.svg" width="44" alt="">
 
 ### Speech & Biometrics
 
@@ -94,7 +94,7 @@ I work across **language, speech, explainability, and secure AI** — from model
 
 <td valign="top" width="50%">
 
-<img src="assets/icons/trust.svg" width="44" alt="">
+<img src="assets/trust.svg" width="44" alt="">
 
 ### Explainable & Trustworthy AI
 
@@ -106,7 +106,7 @@ I work across **language, speech, explainability, and secure AI** — from model
 
 <td valign="top" width="50%">
 
-<img src="assets/icons/finance.svg" width="44" alt="">
+<img src="assets/finance.svg" width="44" alt="">
 
 ### Financial ML
 
@@ -125,14 +125,14 @@ I work across **language, speech, explainability, and secure AI** — from model
 
 <a id="projects"></a>
 
-## <img src="assets/icons/projects.svg" alt="" width="32" height="32" align="absmiddle"> Selected Work
+## <img src="assets/projects.svg" alt="" width="32" height="32" align="absmiddle"> Selected Work
 
 <table>
 <tr>
 
 <td valign="top" width="50%">
 
-<img src="assets/icons/language.svg" width="44" alt="">
+<img src="assets/language.svg" width="44" alt="">
 
 ### 01 · Kokborok → English NMT
 
@@ -148,7 +148,7 @@ Published in 2026 — CRC Press / Taylor & Francis
 
 <td valign="top" width="50%">
 
-<img src="assets/icons/speech.svg" width="44" alt="">
+<img src="assets/speech.svg" width="44" alt="">
 
 ### 02 · VoicePay
 
@@ -187,7 +187,7 @@ ECAPA-TDNN · AASIST · Whisper · Flutter · FastAPI · SQLite
 
 <td valign="top" width="50%">
 
-<img src="assets/icons/finance.svg" width="44" alt="">
+<img src="assets/finance.svg" width="44" alt="">
 
 ### 03 · Deep Residual Option Pricing
 
@@ -203,7 +203,7 @@ Collaboration involving researchers associated with IIT Patna, IIM Ahmedabad, an
 
 <td valign="top" width="50%">
 
-<img src="assets/icons/trust.svg" width="44" alt="">
+<img src="assets/trust.svg" width="44" alt="">
 
 ### 04 · SOAR-X
 
@@ -239,14 +239,14 @@ FastAPI inference · Vercel deployment
 
 <a id="experience"></a>
 
-## <img src="assets/icons/experience.svg" alt="" width="32" height="32" align="absmiddle"> Experience
+## <img src="assets/experience.svg" alt="" width="32" height="32" align="absmiddle"> Experience
 
 <table>
 <tr>
 
 <td valign="top" width="50%">
 
-<img src="assets/icons/speech.svg" width="44" alt="">
+<img src="assets/speech.svg" width="44" alt="">
 
 ### Research Intern
 
@@ -264,7 +264,7 @@ ECAPA-TDNN · AASIST · Whisper · Flutter · FastAPI · SQLite
 
 <td valign="top" width="50%">
 
-<img src="assets/icons/finance.svg" width="44" alt="">
+<img src="assets/finance.svg" width="44" alt="">
 
 ### Research Collaboration
 
@@ -281,13 +281,13 @@ Research paper in preparation
 
 <a id="publications"></a>
 
-## <img src="assets/icons/publication.svg" alt="" width="32" height="32" align="absmiddle"> Publication
+## <img src="assets/publication.svg" alt="" width="32" height="32" align="absmiddle"> Publication
 
 <table>
 <tr>
 <td valign="top">
 
-<img src="assets/icons/language.svg" width="44" alt="">
+<img src="assets/language.svg" width="44" alt="">
 
 ### Developing a Neural Machine Translation Tool for Kokborok-to-English: A Step Toward Preserving Indigenous Languages
 
@@ -307,7 +307,7 @@ Research on low-resource Kokborok-to-English neural machine translation using Me
 
 <a id="credentials"></a>
 
-## <img src="assets/icons/credentials.svg" alt="" width="32" height="32" align="absmiddle"> Credentials
+## <img src="assets/credentials.svg" alt="" width="32" height="32" align="absmiddle"> Credentials
 
 <table>
 <tr>
@@ -377,7 +377,7 @@ Six-week AI/ML research internship through the IIIT-NR Outreach Program.
 
 <a id="activity"></a>
 
-## <img src="assets/icons/activity.svg" alt="" width="32" height="32" align="absmiddle"> GitHub Activity
+## <img src="assets/activity.svg" alt="" width="32" height="32" align="absmiddle"> GitHub Activity
 
 <p align="center">
   <picture>
@@ -389,7 +389,7 @@ Six-week AI/ML research internship through the IIIT-NR Outreach Program.
 
 <a id="contact"></a>
 
-## <img src="assets/icons/contact.svg" alt="" width="32" height="32" align="absmiddle"> Contact
+## <img src="assets/contact.svg" alt="" width="32" height="32" align="absmiddle"> Contact
 
 <p align="center">
   <strong>Let's build something useful.</strong>
@@ -404,7 +404,7 @@ Six-week AI/ML research internship through the IIIT-NR Outreach Program.
 </p>
 
 <p align="center">
-  <img src="assets/icons/deploy.svg" width="28" alt="">
+  <img src="assets/deploy.svg" width="28" alt="">
   <br>
   <sub><strong>Published · Ongoing · Deployed</strong></sub>
 </p>
