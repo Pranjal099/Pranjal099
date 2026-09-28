@@ -1,9 +1,11 @@
-<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.gif">
   <img
-    src="assets/banner.gif"
+    src="assets/banner-light.gif"
     alt="PRANJAL — AI/ML Research · NLP · Speech AI · Explainable AI"
     width="100%">
-</p>
+</picture>
 <p align="center">
   <a href="#about">About</a> ·
   <a href="#research">Research</a> ·
