@@ -1,7 +1,11 @@
-<img
-  src="assets/banner-light.gif"
-  alt="PRANJAL — AI/ML Research · NLP · Speech AI · Explainable AI"
-  width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.gif">
+  <img
+    src="assets/banner-dark.gif"
+    alt="PRANJAL — AI/ML Research · NLP · Speech AI · Explainable AI"
+    width="100%">
+</picture>
 
 <p align="center">
   <a href="#about">About</a> ·
@@ -376,7 +380,11 @@ Six-week AI/ML research internship through the IIIT-NR Outreach Program.
 ## <img src="assets/icons/activity.svg" alt="" width="32" height="32" align="absmiddle"> GitHub Activity
 
 <p align="center">
-  <img alt="Animated GitHub contribution graph" src="https://raw.githubusercontent.com/Pranjal099/Pranjal099/output/github-snake.svg" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranjal099/Pranjal099/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranjal099/Pranjal099/output/github-snake.svg">
+    <img alt="Animated GitHub contribution graph" src="https://raw.githubusercontent.com/Pranjal099/Pranjal099/output/github-snake-dark.svg" width="100%">
+  </picture>
 </p>
 
 <p align="center">
