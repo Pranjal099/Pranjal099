@@ -5,12 +5,17 @@
 </picture>
 
 <p align="center">
-  <a href="#about">About</a> · <a href="#research">Research</a> · <a href="#projects">Projects</a> ·
-  <a href="#experience">Experience</a> · <a href="#publications">Publications</a> ·
-  <a href="#credentials">Credentials</a> · <a href="#contact">Contact</a>
+  <a href="#about">About</a> ·
+  <a href="#research">Research</a> ·
+  <a href="#projects">Projects</a> ·
+  <a href="#experience">Experience</a> ·
+  <a href="#publications">Publications</a> ·
+  <a href="#credentials">Credentials</a> ·
+  <a href="#contact">Contact</a>
 </p>
 
 <a id="about"></a>
+
 ## About
 
 I am an AI/ML researcher and engineer working across language, speech, explainability, and secure AI. My work combines model development and evaluation with end-to-end implementation, including deployed APIs, mobile applications, and research prototypes.
@@ -26,6 +31,7 @@ Building and evaluating AI systems across **NLP, LLMs/RAG, speech AI, and trustw
 **Trustworthy AI** — Explainable AI · Secure AI · Cybersecurity
 
 <a id="research"></a>
+
 ## Research
 
 **Machine Translation** — Low-resource Kokborok → English NMT using Meta M2M100  
@@ -37,6 +43,7 @@ Building and evaluating AI systems across **NLP, LLMs/RAG, speech AI, and trustw
 **Research methods:** Fine-tuning · Neural machine translation · Speaker verification · ASR · Anti-spoofing · Explainable AI · Model evaluation · Data preprocessing
 
 <a id="projects"></a>
+
 ## Featured projects
 
 ### 01 — Kokborok → English Neural Machine Translation
@@ -101,10 +108,12 @@ Research on learning residual corrections to Black–Scholes European option pri
 **[Repository](https://github.com/Pranjal099/SoarX)**
 
 <a id="experience"></a>
+
 ## Experience
 
 ### Research Intern — Biomedical and Speech Processing Lab
-**IIIT Naya Raipur · May–July 2026**
+
+**IIIT Naya Raipur · 27 May – 10 July 2026**
 
 Six-week research internship focused on an end-to-end AI-powered voice payment application.
 
@@ -117,31 +126,76 @@ Six-week research internship focused on an end-to-end AI-powered voice payment a
 **Option Pricing Research** — collaboration involving IIT Patna, IIM Ahmedabad, and Bennett University.
 
 <a id="publications"></a>
-## Publication
 
-**Developing a Neural Machine Translation Tool for Kokborok-to-English: A Step Toward Preserving Indigenous Languages**
+## Publications
 
-Sanchali Das · Pranjal Gautam · Mainak Sarkar  
+### Developing a Neural Machine Translation Tool for Kokborok-to-English: A Step Toward Preserving Indigenous Languages
+
+**Sanchali Das · Pranjal Gautam · Mainak Sarkar**
+
 **Published in 2026 — CRC Press / Taylor & Francis**
 
-**[DOI](https://doi.org/10.1201/9781003743767-121) · [Google Scholar](https://scholar.google.com/citations?user=k59ikhAAAAAJ&hl=en)**
+Research on low-resource Kokborok-to-English neural machine translation using Meta's M2M100 multilingual model.
+
+**[DOI](https://doi.org/10.1201/9781003743767-121) · [Google Scholar](https://scholar.google.com/citations?user=k59ikhAAAAAJ&hl=en) · [Repository](https://github.com/Pranjal099/kokborok-english-neural-machine-translation)**
 
 <a id="credentials"></a>
+
 ## Credentials
 
-**ICDSSS-2025 — Research Paper Presentation** · December 2025  
-**IIIT Naya Raipur — Research Internship** · 27 May 2026 – 10 July 2026
+### Research Paper Presentation
 
-*Certificate thumbnails/links can be added under `assets/credentials/`.*
+**ICSDS-2025 · 20–21 December 2025**
+
+Presented the research paper:
+
+*Developing a Neural Machine Translation Tool for Kokborok-to-English: A Step Toward Preserving Indigenous Languages*
+
+<a href="./assets/credentials/icsds-2025-presentation-certificate.pdf">
+  <img
+    src="./assets/credentials/icsds-2025-presentation-certificate.png"
+    alt="ICSDS-2025 Certificate of Presentation"
+    width="720">
+</a>
+
+<br>
+
+<sub>
+<a href="./assets/credentials/icsds-2025-presentation-certificate.pdf">
+View certificate
+</a>
+</sub>
+
+<br><br>
+
+### Research Internship
+
+**IIIT Naya Raipur · 27 May – 10 July 2026**
+
+Six-week AI/ML research internship through the IIIT-NR Outreach Program.
+
+<a href="./assets/credentials/iiitnr-internship-certificate.pdf">
+  <img
+    src="./assets/credentials/iiitnr-internship-certificate.png"
+    alt="IIIT Naya Raipur Research Internship Certificate"
+    width="720">
+</a>
+
+<br>
+
+<sub>
+<a href="./assets/credentials/iiitnr-internship-certificate.pdf">
+View certificate
+</a>
+</sub>
 
 <a id="contact"></a>
+
 ## Contact
 
 Interested in research collaborations across **NLP, Speech AI, Explainable AI, and Secure AI**.
 
 **[LinkedIn](https://www.linkedin.com/in/pranjal99/) · [Google Scholar](https://scholar.google.com/citations?user=k59ikhAAAAAJ&hl=en) · [Personal Email](mailto:pranjalofficial32@gmail.com)**
-
-**Bennett University Email:** add when ready to expose it publicly.
 
 ---
 
