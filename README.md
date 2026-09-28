@@ -1,191 +1,148 @@
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Pranjal099/Pranjal099/main/dark.svg"
-    alt="Pranjal — AI/ML Researcher"
-    width="100%"
-  />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-light.svg" alt="PRANJAL — AI/ML Research · NLP · Speech AI · Explainable AI" width="100%">
+</picture>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=AI%2FML+Researcher;NLP+%7C+LLMs+%7C+RAG;Speech+AI+%7C+Voice+Biometrics;Building+%26+Evaluating+AI+Systems"
-    alt="AI ML research focus"
-  />
+  <a href="#about">About</a> · <a href="#research">Research</a> · <a href="#projects">Projects</a> ·
+  <a href="#experience">Experience</a> · <a href="#publications">Publications</a> ·
+  <a href="#credentials">Credentials</a> · <a href="#contact">Contact</a>
 </p>
 
-# Pranjal
+<a id="about"></a>
+## About
 
-**AI/ML · NLP · LLMs · Speech AI**
+I am an AI/ML researcher and engineer working across language, speech, explainability, and secure AI. My work combines model development and evaluation with end-to-end implementation, including deployed APIs, mobile applications, and research prototypes.
 
-I'm a Computer Science and Engineering student specializing in Artificial Intelligence at **Bennett University**.
+**B.Tech Computer Science & Engineering (AI)** · Bennett University · 2024–2028 · **CGPA 8.8**
 
-I work primarily on NLP, speech AI, deep learning, and LLM-based systems. I enjoy working on problems that involve a mix of research, experimentation, and engineering rather than simply implementing existing tutorials.
+### Research focus
 
-Currently, I'm spending most of my time learning more about **LLM/RAG systems**, model evaluation, and practical AI engineering.
+Building and evaluating AI systems across **NLP, LLMs/RAG, speech AI, and trustworthy AI**, with an emphasis on measurable model performance and practical deployment.
 
----
+**Language & Foundation Models** — NLP · LLMs/RAG · Machine Translation  
+**Speech & Biometrics** — Speech AI · Speaker Verification · ASR  
+**Trustworthy AI** — Explainable AI · Secure AI · Cybersecurity
 
-## What I work on
+<a id="research"></a>
+## Research
 
-- Natural Language Processing and Machine Translation
-- Large Language Models and Retrieval-Augmented Generation
-- Speech AI and Speaker Verification
-- Deep Learning
-- Explainable AI
-- Applied AI research
+**Machine Translation** — Low-resource Kokborok → English NMT using Meta M2M100  
+**Speech AI** — Speaker verification, anti-spoofing, ASR, voice-based authentication  
+**Explainable AI** — Feature-level model explanations and security risk interpretation  
+**Financial ML** — Deep residual correction of Black–Scholes option prices  
+**Secure AI** — Voice payment authentication and cyber-threat detection
 
----
+**Research methods:** Fine-tuning · Neural machine translation · Speaker verification · ASR · Anti-spoofing · Explainable AI · Model evaluation · Data preprocessing
 
-## Selected work
+<a id="projects"></a>
+## Featured projects
 
-### VoicePay
+### 01 — Kokborok → English Neural Machine Translation
 
-Voice-based payment authentication system developed during my research internship at **IIIT Naya Raipur**.
+A low-resource neural machine translation system developed for Kokborok → English translation.
 
-The system combines speaker verification, speech recognition, anti-spoofing, and voice intent understanding to authorize voice-based payments.
+- ~**38,000** sentence pairs
+- **M2M100-418M** fine-tuned with PyTorch and Hugging Face Transformers
+- Test set: **100 Kokborok sentences**
+- **BLEU 70.56 · METEOR 0.76 · ROUGE-L 0.80**
+- End-to-end contribution: corpus construction, cleaning, preprocessing, model implementation, fine-tuning, evaluation, error analysis, code, and paper writing
+- **Published in 2026 — CRC Press / Taylor & Francis**
 
-**Work included**
-
-- ECAPA-TDNN based speaker verification
-- AASIST based audio anti-spoofing
-- Whisper for speech recognition
-- Hindi/Hinglish voice processing
-- FastAPI backend
-- Mobile application integration
-
-Fine-tuned ECAPA-TDNN on a Hindi speech corpus and reduced **EER from 5.88% to 3.52%**.
-
-`PyTorch` `ECAPA-TDNN` `AASIST` `Whisper` `FastAPI` `Flutter`
+**[Repository](https://github.com/Pranjal099/kokborok-english-neural-machine-translation) · [DOI](https://doi.org/10.1201/9781003743767-121) · [Google Scholar](https://scholar.google.com/citations?user=k59ikhAAAAAJ&hl=en)**
 
 ---
 
-### Kokborok → English Neural Machine Translation
+### 02 — VoicePay
 
-Research on neural machine translation for **Kokborok**, a low-resource indigenous language.
+An end-to-end voice payment research prototype combining speaker verification, anti-spoofing, speech recognition, payment intent extraction, and mobile deployment.
 
-The work involved dataset preparation, preprocessing, Transformer-based training, and evaluation using the **M2M100** architecture.
+- **ECAPA-TDNN** speaker verification
+- **AASIST** anti-spoofing
+- **Whisper** speech recognition
+- **Flutter** + **FastAPI** + **SQLite**
+- Authentication, enrollment, payment confirmation, QR payment, and end-to-end integration
+- **186 speakers · 9,660 training utterances · 1,074 validation utterances**
+- Fixed evaluation protocol: **5,000 genuine/impostor trials**
+- Pretrained ECAPA baseline **EER 5.88%** → fine-tuned ECAPA **EER 3.52%**
+- Completed research prototype + deployed
 
-The research was later published as a book chapter with **CRC Press / Taylor & Francis**.
-
-**Publication**
-
-*Developing a Neural Machine Translation Tool for Kokborok-to-English: A Step Toward Preserving Indigenous Languages*
-
-DOI: https://doi.org/10.1201/9781003743767-121
-
-`Python` `PyTorch` `M2M100` `Hugging Face Transformers` `NLP`
-
----
-
-### SOAR-X
-
-An explainable machine-learning system for **phishing detection**.
-
-The project focuses on combining classification with model interpretation so that predictions can be examined rather than treated as black-box outputs.
-
-`Python` `Random Forest` `SHAP` `FastAPI` `Streamlit`
+**[Mobile Repository](https://github.com/Pranjal099/Voicepay) · [Backend Repository](https://github.com/Pranjal099/voice-auth-api) · [Release](https://github.com/Pranjal099/Voicepay/releases/tag/v1.0.0) · [Deployment](https://huggingface.co/spaces/Pranjal99/voicepay-HF)**
 
 ---
 
-### AI-Based Option Pricing
+### 03 — Deep Residual Correction of Black–Scholes European Option Prices Using an LSTM-Transformer Network
 
-Ongoing research exploring deep-learning approaches for **option-price prediction** and comparison with the classical **Black–Scholes** model.
+Research on learning residual corrections to Black–Scholes European option prices using deep sequence models.
 
-I've experimented with MLPs, CNN-LSTM models, Transformers, and residual architectures while studying their behaviour across different option conditions.
+- AI-based option pricing research comparing learned corrections with the Black–Scholes framework
+- Research paper **in preparation**
+- Collaboration involving researchers associated with **IIT Patna, IIM Ahmedabad, and Bennett University**
 
-`Python` `PyTorch` `MLP` `CNN-LSTM` `Transformer`
-
----
-
-### SYNQ
-
-A secure messaging application exploring modern approaches to private communication.
-
-The project involves mobile application development and cryptographic protocols including **X3DH** and **Double Ratchet**.
-
-`Flutter` `Android` `X3DH` `Double Ratchet` `AES`
+**Repository:** to be added when confirmed
 
 ---
 
-### LegalMind
+### 04 — SOAR-X
 
-Currently building a practical **legal-document RAG system**.
+**Security Orchestration, Automation & Response using Explainable AI** for cyber-threat detection.
 
-The goal is to explore how retrieval, embeddings, and LLMs can be combined to search legal documents and produce clearer, meaning-preserving explanations.
+- **9M+ network records**
+- Random Forest benign/malicious classification
+- Feature selection using model importance
+- **SHAP** explanations for individual predictions
+- Risk scores and severity levels
+- **FastAPI** inference backend
+- Frontend deployed on **Vercel**
+- Personal contribution: data processing, ML pipeline, model training/optimization, explainability, and security insight generation
+- **Live / deployed**
 
-`Python` `RAG` `Embeddings` `Vector Search` `LLMs`
+**[Repository](https://github.com/Pranjal099/SoarX)**
 
----
+<a id="experience"></a>
+## Experience
 
-## Research experience
+### Research Intern — Biomedical and Speech Processing Lab
+**IIIT Naya Raipur · May–July 2026**
 
-### AI Research Intern — Speech AI & Voice Biometrics
+Six-week research internship focused on an end-to-end AI-powered voice payment application.
 
-**IIIT Naya Raipur**  
-May 2026 – July 2026
+**ECAPA-TDNN · AASIST · Whisper · Flutter · FastAPI · SQLite · End-to-end deployment**
 
-Worked on a voice authentication and payment system involving speaker verification, automatic speech recognition, anti-spoofing, and voice-based intent understanding.
+**Mentors:** Dr. Anurag Singh · Er. Om Nath Singh
 
-My work involved model fine-tuning, experimentation, evaluation, and integration of the models into an application-level pipeline.
+### Research collaborations
 
----
+**Option Pricing Research** — collaboration involving IIT Patna, IIM Ahmedabad, and Bennett University.
 
+<a id="publications"></a>
 ## Publication
 
 **Developing a Neural Machine Translation Tool for Kokborok-to-English: A Step Toward Preserving Indigenous Languages**
 
-**CRC Press / Taylor & Francis**
+Sanchali Das · Pranjal Gautam · Mainak Sarkar  
+**Published in 2026 — CRC Press / Taylor & Francis**
 
-DOI: https://doi.org/10.1201/9781003743767-121
+**[DOI](https://doi.org/10.1201/9781003743767-121) · [Google Scholar](https://scholar.google.com/citations?user=k59ikhAAAAAJ&hl=en)**
 
----
+<a id="credentials"></a>
+## Credentials
 
-## Technical interests
+**ICDSSS-2025 — Research Paper Presentation** · December 2025  
+**IIIT Naya Raipur — Research Internship** · 27 May 2026 – 10 July 2026
 
-**Languages**
+*Certificate thumbnails/links can be added under `assets/credentials/`.*
 
-`Python` `C++` `SQL`
-
-**Machine Learning**
-
-`PyTorch` `TensorFlow` `Scikit-learn`
-
-**NLP / LLM**
-
-`Hugging Face Transformers` `LLMs` `RAG` `Embeddings` `Vector Search`
-
-**Speech AI**
-
-`Whisper` `ECAPA-TDNN` `AASIST`
-
-**Computer Vision**
-
-`OpenCV` `U-Net` `ResNet`
-
-**Engineering**
-
-`FastAPI` `Streamlit` `Flutter` `Git` `Linux`
-
----
-
-## Currently learning
-
-I'm currently focusing on:
-
-- LLM internals and Transformer architectures
-- Retrieval-Augmented Generation
-- LLM fine-tuning
-- Evaluation of AI systems
-- AI system design and deployment
-
----
-
-## What I enjoy working on
-
-Research papers → experiments → unexpected results → figuring out why → better experiments → working systems.
-
----
-
+<a id="contact"></a>
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/pranjal99/) · [GitHub](https://github.com/Pranjal099)
+Interested in research collaborations across **NLP, Speech AI, Explainable AI, and Secure AI**.
+
+**[LinkedIn](https://www.linkedin.com/in/pranjal99/) · [Google Scholar](https://scholar.google.com/citations?user=k59ikhAAAAAJ&hl=en) · [Personal Email](mailto:pranjalofficial32@gmail.com)**
+
+**Bennett University Email:** add when ready to expose it publicly.
+
+---
+
+<sub>Published, ongoing, and deployed work are labeled separately.</sub>
