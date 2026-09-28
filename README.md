@@ -1,160 +1,166 @@
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Pranjal099/Pranjal099/main/dark.svg"
-    alt="Pranjal — AI/ML Researcher and AI Engineer"
-    width="100%"
-  />
-</p>
+# Pranjal
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=AI%2FML+Researcher+%26+Builder;LLMs+%7C+RAG+%7C+NLP;Speech+AI+%7C+Voice+Biometrics;Deep+Learning+%7C+Applied+AI+Research"
-    alt="Typing animation"
-  />
-</p>
+**AI/ML · NLP · LLMs · Speech AI**
 
-# 👋 Hi, I'm Pranjal
+I'm a Computer Science and Engineering student specializing in Artificial Intelligence at Bennett University.
 
-**AI/ML Researcher · LLMs & NLP · Speech AI · Deep Learning**
+I work primarily on NLP, speech AI, deep learning, and LLM-based systems. I like working on problems where there is a combination of research, experimentation, and engineering rather than only implementing existing tutorials.
 
-I am a Computer Science and Engineering student specializing in Artificial Intelligence at **Bennett University**, focused on building intelligent systems that solve real-world problems.
-
-My technical interests include **Large Language Models, Retrieval-Augmented Generation, Natural Language Processing, Speech AI, Deep Learning, Computer Vision, and applied AI research**.
+Currently, I'm spending most of my time learning more about LLM/RAG systems and building practical AI projects around them.
 
 ---
 
-## 🔬 Research & Technical Interests
+## What I work on
 
-- Large Language Models (LLMs) and Retrieval-Augmented Generation
 - Natural Language Processing and Machine Translation
-- Speech AI, Speaker Verification, and Anti-Spoofing
-- Deep Learning and Explainable AI
-- Computer Vision and AI for Healthcare
-- Applied AI research and real-world AI systems
+- Large Language Models and Retrieval-Augmented Generation
+- Speech AI and Speaker Verification
+- Deep Learning
+- Explainable AI
+- Applied AI research
 
 ---
 
-## 🚀 Featured Projects
+## Selected work
 
-### 🎙️ VoicePay — AI-Powered Voice Payment Authentication
+### VoicePay
 
-AI-powered voice payment system integrating speaker verification, ASR, anti-spoofing, intent understanding, FastAPI, and a mobile application.
+Voice-based payment authentication system developed during my research internship at IIIT Naya Raipur.
 
-`ECAPA-TDNN` `AASIST` `Whisper` `RapidFuzz` `FastAPI` `Flutter`
+The system combines speaker verification, speech recognition, anti-spoofing, and voice intent understanding to authorize voice-based payments.
 
-### 🛡️ SOAR-X — Explainable AI for Cybersecurity
+**Work included**
 
-Explainable AI system focused on phishing detection, machine-learning classification, and model interpretation.
+- ECAPA-TDNN based speaker verification
+- AASIST based audio anti-spoofing
+- Whisper for speech recognition
+- Hindi/Hinglish voice processing
+- FastAPI backend
+- Mobile application integration
+
+Fine-tuned ECAPA-TDNN on a Hindi speech corpus and reduced EER from **5.88% to 3.52%**.
+
+`PyTorch` `ECAPA-TDNN` `AASIST` `Whisper` `FastAPI` `Flutter`
+
+---
+
+### Kokborok → English Neural Machine Translation
+
+Research on neural machine translation for Kokborok, a low-resource indigenous language.
+
+The work involved dataset preparation, preprocessing, Transformer-based training, and evaluation using the M2M100 architecture.
+
+The research was later published as a book chapter with **CRC Press / Taylor & Francis**.
+
+**Publication**
+
+*Developing a Neural Machine Translation Tool for Kokborok-to-English: A Step Toward Preserving Indigenous Languages*
+
+DOI: https://doi.org/10.1201/9781003743767-121
+
+`Python` `PyTorch` `M2M100` `Hugging Face Transformers` `NLP`
+
+---
+
+### SOAR-X
+
+An explainable machine-learning system for phishing detection.
+
+The project focuses on combining classification with model interpretation so that predictions can be examined rather than treated as black-box outputs.
 
 `Python` `Random Forest` `SHAP` `FastAPI` `Streamlit`
 
-### 🌐 Kokborok → English Neural Machine Translation
+---
 
-Transformer-based neural machine translation work focused on a low-resource indigenous language and digital language preservation.
+### AI-Based Option Pricing
 
-`M2M100` `Hugging Face Transformers` `NLP` `Machine Translation`
+Ongoing research exploring deep-learning approaches for option-price prediction and comparison with the Black–Scholes model.
 
-📚 Published chapter: **CRC Press / Taylor & Francis**
+I've experimented with MLPs, CNN-LSTM models, Transformers, and residual architectures while studying their behaviour across different option conditions.
 
-### 📈 AI-Based Option Pricing
-
-Deep-learning approaches for option-price prediction and comparison with the Black–Scholes model.
-
-`MLP` `CNN-LSTM` `Transformer` `Residual Architectures`
-
-### 🔐 SYNQ — Secure Messaging
-
-Android messaging application exploring secure communication and modern cryptographic protocols.
-
-`Android` `Flutter` `X3DH` `Double Ratchet` `AES`
-
-### ⚖️ LegalMind — Explainable Legal RAG
-
-A practical LLM/RAG system being developed for legal-document understanding, retrieval, and meaning-preserving simplification.
-
-`RAG` `Embeddings` `Vector Search` `LLMs` `Legal NLP`
+`Python` `PyTorch` `MLP` `CNN-LSTM` `Transformer`
 
 ---
 
-## 🧪 Research Experience
+### SYNQ
+
+A secure messaging application exploring modern approaches to private communication.
+
+The project involves mobile application development and cryptographic protocols including X3DH and Double Ratchet.
+
+`Flutter` `Android` `X3DH` `Double Ratchet` `AES`
+
+---
+
+### LegalMind
+
+Currently building a practical legal-document RAG system.
+
+The goal is to explore how retrieval, embeddings, and LLMs can be combined to search legal documents and produce clearer, meaning-preserving explanations.
+
+`Python` `RAG` `Embeddings` `Vector Search` `LLMs`
+
+---
+
+## Research experience
 
 ### AI Research Intern — Speech AI & Voice Biometrics
 
-**IIIT Naya Raipur · May 2026 – Jul 2026**
+**IIIT Naya Raipur**  
+May 2026 – July 2026
 
-Worked on an AI-powered voice authentication/payment system involving speaker verification, automatic speech recognition, anti-spoofing, voice intent understanding, deep-learning fine-tuning, and application integration.
+Worked on a voice authentication and payment system involving speaker verification, ASR, anti-spoofing, and voice-based intent understanding.
 
----
-
-## 📚 Publication
-
-**Developing a Neural Machine Translation Tool for Kokborok-to-English: A Step Toward Preserving Indigenous Languages**
-
-**Publisher:** CRC Press / Taylor & Francis
-
-**DOI:** https://doi.org/10.1201/9781003743767-121
+My work involved model fine-tuning, experimentation, evaluation, and integration of the models into an application-level pipeline.
 
 ---
 
-## 🧰 Technical Stack
+## Technical interests
 
-**Languages:** `Python` `C++` `SQL`
+**Languages**
 
-**AI / ML:** `PyTorch` `TensorFlow` `Scikit-learn` `Hugging Face` `Transformers`
+Python · C++ · SQL
 
-**LLM / RAG:** `LLMs` `RAG` `Embeddings` `Vector Search` `Prompt Engineering`
+**Machine Learning**
 
-**Speech AI:** `Whisper` `ECAPA-TDNN` `AASIST`
+PyTorch · TensorFlow · Scikit-learn
 
-**Computer Vision:** `OpenCV` `U-Net` `ResNet`
+**NLP / LLM**
 
-**Backend / Tools:** `FastAPI` `Streamlit` `Flutter` `Git` `GitHub` `Linux` `Jupyter` `Google Colab`
+Hugging Face Transformers · LLMs · RAG · Embeddings · Vector Search
 
----
+**Speech AI**
 
-## 🌱 Currently Learning
+Whisper · ECAPA-TDNN · AASIST
 
-- Advanced LLM Engineering and RAG Systems
-- Transformer Architecture and Fine-Tuning
-- AI System Design and Deployment
-- MLOps and production-ready machine learning
-- Research methodology and model evaluation
+**Computer Vision**
 
----
+OpenCV · U-Net · ResNet
 
-## 📊 GitHub Activity
+**Engineering**
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Pranjal099&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="170"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal099&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Top languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Pranjal099&theme=tokyonight&hide_border=true"
-    alt="GitHub streak"
-  />
-</p>
+FastAPI · Streamlit · Flutter · Git · Linux
 
 ---
 
-## 🤝 Let's Connect
+## Currently learning
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pranjal99/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pranjal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Pranjal099">
-    <img src="https://img.shields.io/badge/GitHub-Pranjal099-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+I'm currently focusing on:
 
-<p align="center"><i>Research → Experiment → Build → Evaluate → Ship</i></p>
+- LLM internals and Transformer architectures
+- Retrieval-Augmented Generation
+- LLM fine-tuning
+- Evaluation of AI systems
+- AI system design and deployment
+
+---
+
+## A few things I'm interested in
+
+Research papers → experiments → failed experiments → figuring out why they failed → better experiments → working systems.
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/pranjal99/) · [GitHub](https://github.com/Pranjal099)
