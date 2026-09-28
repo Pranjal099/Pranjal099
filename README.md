@@ -1,11 +1,7 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.gif">
-  <img
-    src="assets/banner-light.gif"
-    alt="PRANJAL — AI/ML Research · NLP · Speech AI · Explainable AI"
-    width="100%">
-</picture>
+<img
+  src="assets/banner-light.gif"
+  alt="PRANJAL — AI/ML Research · NLP · Speech AI · Explainable AI"
+  width="100%">
 
 <p align="center">
   <a href="#about">About</a> ·
@@ -20,7 +16,7 @@
 
 <a id="about"></a>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="" width="32" height="32" align="absmiddle"> About
+## <img src="assets/icons/about.svg" alt="" width="32" height="32" align="absmiddle"> About
 
 ### AI/ML Researcher · Builder
 
@@ -32,25 +28,25 @@ I work across **language, speech, explainability, and secure AI** — from model
 <tr>
 
 <td align="center" valign="top" width="25%">
-<img src="assets/language.gif" width="32" alt=""><br>
+<img src="assets/icons/language.svg" width="44" alt=""><br>
 <strong>LANGUAGE</strong><br>
 <sub>NLP · LLMs · RAG · NMT</sub>
 </td>
 
 <td align="center" valign="top" width="25%">
-<img src="assets/speech.gif" width="32" alt=""><br>
+<img src="assets/icons/speech.svg" width="44" alt=""><br>
 <strong>SPEECH</strong><br>
 <sub>ASV · ASR · Anti-Spoofing</sub>
 </td>
 
 <td align="center" valign="top" width="25%">
-<img src="assets/trust.gif" width="32" alt=""><br>
+<img src="assets/icons/trust.svg" width="44" alt=""><br>
 <strong>TRUST</strong><br>
 <sub>XAI · Security · Evaluation</sub>
 </td>
 
 <td align="center" valign="top" width="25%">
-<img src="assets/deploy.gif" width="32" alt=""><br>
+<img src="assets/icons/deploy.svg" width="44" alt=""><br>
 <strong>DEPLOYMENT</strong><br>
 <sub>FastAPI · Flutter · APIs</sub>
 </td>
@@ -60,14 +56,14 @@ I work across **language, speech, explainability, and secure AI** — from model
 
 <a id="research"></a>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52c/512.gif" alt="" width="32" height="32" align="absmiddle"> Research
+## <img src="assets/icons/research.svg" alt="" width="32" height="32" align="absmiddle"> Research
 
 <table>
 <tr>
 
 <td valign="top" width="50%">
 
-<img src="assets/language.gif" width="34" alt="">
+<img src="assets/icons/language.svg" width="44" alt="">
 
 ### Language & Foundation Models
 
@@ -79,7 +75,7 @@ I work across **language, speech, explainability, and secure AI** — from model
 
 <td valign="top" width="50%">
 
-<img src="assets/speech.gif" width="34" alt="">
+<img src="assets/icons/speech.svg" width="44" alt="">
 
 ### Speech & Biometrics
 
@@ -94,7 +90,7 @@ I work across **language, speech, explainability, and secure AI** — from model
 
 <td valign="top" width="50%">
 
-<img src="assets/trust.gif" width="34" alt="">
+<img src="assets/icons/trust.svg" width="44" alt="">
 
 ### Explainable & Trustworthy AI
 
@@ -106,7 +102,7 @@ I work across **language, speech, explainability, and secure AI** — from model
 
 <td valign="top" width="50%">
 
-<img src="assets/deploy.gif" width="34" alt="">
+<img src="assets/icons/finance.svg" width="44" alt="">
 
 ### Financial ML
 
@@ -125,14 +121,14 @@ I work across **language, speech, explainability, and secure AI** — from model
 
 <a id="projects"></a>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="" width="32" height="32" align="absmiddle"> Selected Work
+## <img src="assets/icons/projects.svg" alt="" width="32" height="32" align="absmiddle"> Selected Work
 
 <table>
 <tr>
 
 <td valign="top" width="50%">
 
-<img src="assets/language.gif" width="34" alt="">
+<img src="assets/icons/language.svg" width="44" alt="">
 
 ### 01 · Kokborok → English NMT
 
@@ -148,7 +144,7 @@ Published in 2026 — CRC Press / Taylor & Francis
 
 <td valign="top" width="50%">
 
-<img src="assets/speech.gif" width="34" alt="">
+<img src="assets/icons/speech.svg" width="44" alt="">
 
 ### 02 · VoicePay
 
@@ -187,7 +183,7 @@ ECAPA-TDNN · AASIST · Whisper · Flutter · FastAPI · SQLite
 
 <td valign="top" width="50%">
 
-<img src="assets/deploy.gif" width="34" alt="">
+<img src="assets/icons/finance.svg" width="44" alt="">
 
 ### 03 · Deep Residual Option Pricing
 
@@ -203,7 +199,7 @@ Collaboration involving researchers associated with IIT Patna, IIM Ahmedabad, an
 
 <td valign="top" width="50%">
 
-<img src="assets/trust.gif" width="34" alt="">
+<img src="assets/icons/trust.svg" width="44" alt="">
 
 ### 04 · SOAR-X
 
@@ -239,14 +235,14 @@ FastAPI inference · Vercel deployment
 
 <a id="experience"></a>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" alt="" width="32" height="32" align="absmiddle"> Experience
+## <img src="assets/icons/experience.svg" alt="" width="32" height="32" align="absmiddle"> Experience
 
 <table>
 <tr>
 
 <td valign="top" width="50%">
 
-<img src="assets/speech.gif" width="34" alt="">
+<img src="assets/icons/speech.svg" width="44" alt="">
 
 ### Research Intern
 
@@ -264,7 +260,7 @@ ECAPA-TDNN · AASIST · Whisper · Flutter · FastAPI · SQLite
 
 <td valign="top" width="50%">
 
-<img src="assets/deploy.gif" width="34" alt="">
+<img src="assets/icons/finance.svg" width="44" alt="">
 
 ### Research Collaboration
 
@@ -281,13 +277,13 @@ Research paper in preparation
 
 <a id="publications"></a>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" alt="" width="32" height="32" align="absmiddle"> Publication
+## <img src="assets/icons/publication.svg" alt="" width="32" height="32" align="absmiddle"> Publication
 
 <table>
 <tr>
 <td valign="top">
 
-<img src="assets/language.gif" width="34" alt="">
+<img src="assets/icons/language.svg" width="44" alt="">
 
 ### Developing a Neural Machine Translation Tool for Kokborok-to-English: A Step Toward Preserving Indigenous Languages
 
@@ -307,7 +303,7 @@ Research on low-resource Kokborok-to-English neural machine translation using Me
 
 <a id="credentials"></a>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="" width="32" height="32" align="absmiddle"> Credentials
+## <img src="assets/icons/credentials.svg" alt="" width="32" height="32" align="absmiddle"> Credentials
 
 <table>
 <tr>
@@ -377,28 +373,19 @@ Six-week AI/ML research internship through the IIIT-NR Outreach Program.
 
 <a id="activity"></a>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="" width="32" height="32" align="absmiddle"> GitHub Activity
+## <img src="assets/icons/activity.svg" alt="" width="32" height="32" align="absmiddle"> GitHub Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranjal099/Pranjal099/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranjal099/Pranjal099/output/github-snake.svg">
-    <img alt="Animated GitHub contribution graph" src="https://raw.githubusercontent.com/Pranjal099/Pranjal099/output/github-snake.svg" width="100%">
-  </picture>
+  <img alt="Animated GitHub contribution graph" src="https://raw.githubusercontent.com/Pranjal099/Pranjal099/output/github-snake.svg" width="100%">
 </p>
 
-## GitHub Activity
-
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Pranjal099/Pranjal099/output/github-snake.svg"
-    alt="GitHub contribution snake"
-    width="100%">
+  <sub>Contribution graph refreshes automatically every 12 hours</sub>
 </p>
 
 <a id="contact"></a>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="" width="32" height="32" align="absmiddle"> Contact
+## <img src="assets/icons/contact.svg" alt="" width="32" height="32" align="absmiddle"> Contact
 
 <p align="center">
   <strong>Let's build something useful.</strong>
@@ -413,7 +400,7 @@ Six-week AI/ML research internship through the IIIT-NR Outreach Program.
 </p>
 
 <p align="center">
-  <img src="assets/deploy.gif" width="28" alt="">
+  <img src="assets/icons/deploy.svg" width="28" alt="">
   <br>
   <sub><strong>Published · Ongoing · Deployed</strong></sub>
 </p>
