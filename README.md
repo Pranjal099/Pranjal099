@@ -1,9 +1,15 @@
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="./light.svg">
-<img src="./dark.svg" alt="Animated profile banner for Pranjal — AI/ML researcher focused on LLMs, RAG, NLP and Speech AI">
-</picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Pranjal099/Pranjal099/main/dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Pranjal099/Pranjal099/main/light.svg">
+    <img
+      src="https://raw.githubusercontent.com/Pranjal099/Pranjal099/main/dark.svg"
+      alt="Pranjal — AI/ML Researcher and AI Engineer">
+  </picture>
 </p>
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=AI%2FML+Researcher+%26+Builder;LLMs+%7C+RAG+%7C+NLP;Speech+AI+%7C+Voice+Biometrics;Deep+Learning+%7C+Applied+AI+Research" alt="Typing animation"></p>
