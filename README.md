@@ -14,12 +14,13 @@
   <a href="#experience">Experience</a> ·
   <a href="#publications">Publication</a> ·
   <a href="#credentials">Credentials</a> ·
+  <a href="#activity">Activity</a> ·
   <a href="#contact">Contact</a>
 </p>
 
 <a id="about"></a>
 
-## About
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="" width="32" height="32" align="absmiddle"> About
 
 ### AI/ML Researcher · Builder
 
@@ -59,7 +60,7 @@ I work across **language, speech, explainability, and secure AI** — from model
 
 <a id="research"></a>
 
-## Research
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52c/512.gif" alt="" width="32" height="32" align="absmiddle"> Research
 
 <table>
 <tr>
@@ -124,7 +125,7 @@ I work across **language, speech, explainability, and secure AI** — from model
 
 <a id="projects"></a>
 
-## Selected Work
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="" width="32" height="32" align="absmiddle"> Selected Work
 
 <table>
 <tr>
@@ -238,7 +239,7 @@ FastAPI inference · Vercel deployment
 
 <a id="experience"></a>
 
-## Experience
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" alt="" width="32" height="32" align="absmiddle"> Experience
 
 <table>
 <tr>
@@ -280,7 +281,7 @@ Research paper in preparation
 
 <a id="publications"></a>
 
-## Publication
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" alt="" width="32" height="32" align="absmiddle"> Publication
 
 <table>
 <tr>
@@ -306,7 +307,7 @@ Research on low-resource Kokborok-to-English neural machine translation using Me
 
 <a id="credentials"></a>
 
-## Credentials
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="" width="32" height="32" align="absmiddle"> Credentials
 
 <table>
 <tr>
@@ -374,9 +375,33 @@ Six-week AI/ML research internship through the IIIT-NR Outreach Program.
 </tr>
 </table>
 
+<a id="activity"></a>
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="" width="32" height="32" align="absmiddle"> GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranjal099/Pranjal099/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranjal099/Pranjal099/output/github-snake.svg">
+    <img alt="Animated GitHub contribution graph" src="https://raw.githubusercontent.com/Pranjal099/Pranjal099/output/github-snake.svg" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pranjal099&amp;hide_border=true&amp;area=true&amp;line=58A6FF&amp;point=58A6FF&amp;area_color=58A6FF&amp;bg_color=0d1117&amp;color=c9d1d9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pranjal099&amp;hide_border=true&amp;area=true&amp;line=58A6FF&amp;point=58A6FF&amp;area_color=58A6FF&amp;bg_color=ffffff&amp;color=24292f">
+    <img alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjal099&amp;hide_border=true&amp;area=true&amp;line=58A6FF&amp;point=58A6FF&amp;area_color=58A6FF&amp;bg_color=ffffff&amp;color=24292f" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Contribution graph refreshes automatically every 12 hours</sub>
+</p>
+
 <a id="contact"></a>
 
-## Contact
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="" width="32" height="32" align="absmiddle"> Contact
 
 <p align="center">
   <strong>Let's build something useful.</strong>
