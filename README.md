@@ -7,92 +7,49 @@
     width="100%">
 </picture>
 
-<br>
-
 <p align="center">
   <a href="#about">About</a> ·
   <a href="#research">Research</a> ·
   <a href="#projects">Projects</a> ·
   <a href="#experience">Experience</a> ·
-  <a href="#publications">Publications</a> ·
+  <a href="#publications">Publication</a> ·
   <a href="#credentials">Credentials</a> ·
   <a href="#contact">Contact</a>
 </p>
-
-<br>
 
 <a id="about"></a>
 
 ## About
 
-<table>
-<tr>
-<td width="60%" valign="middle">
-
 ### AI/ML Researcher · Builder
 
 I work across **language, speech, explainability, and secure AI** — from model development and evaluation to deployed APIs, mobile applications, and research prototypes.
 
-<br>
-
-**B.Tech Computer Science & Engineering (AI)**  
-Bennett University · 2024–2028 · **CGPA 8.8**
-
-</td>
-
-<td width="40%" valign="middle" align="center">
-
-<img src="assets/language.gif" width="42">
-
-<br>
-
-<strong>LANGUAGE</strong>
-
-<br>
-
-<sub>NLP · LLMs · RAG · NMT</sub>
-
-<br><br>
-
-<img src="assets/speech.gif" width="42">
-
-<br>
-
-<strong>SPEECH</strong>
-
-<br>
-
-<sub>ASV · ASR · Anti-Spoofing</sub>
-
-</td>
-</tr>
-</table>
-
-<br>
+**B.Tech Computer Science & Engineering (AI)** · Bennett University · 2024–2028 · **CGPA 8.8**
 
 <table>
 <tr>
 
-<td align="center" width="25%">
-<img src="assets/language.gif" width="32"><br>
+<td align="center" valign="top" width="25%">
+<img src="assets/language.gif" width="32" alt=""><br>
 <strong>LANGUAGE</strong><br>
 <sub>NLP · LLMs · RAG · NMT</sub>
 </td>
 
-<td align="center" width="25%">
-<img src="assets/speech.gif" width="32"><br>
+<td align="center" valign="top" width="25%">
+<img src="assets/speech.gif" width="32" alt=""><br>
 <strong>SPEECH</strong><br>
 <sub>ASV · ASR · Anti-Spoofing</sub>
 </td>
 
-<td align="center" width="25%">
-<img src="assets/trust.gif" width="32"><br>
+<td align="center" valign="top" width="25%">
+<img src="assets/trust.gif" width="32" alt=""><br>
 <strong>TRUST</strong><br>
 <sub>XAI · Security · Evaluation</sub>
 </td>
 
-<td align="center" width="25%">
-<img src="assets/deploy.gif" width="32"><br>
+<td align="center" valign="top" width="25%">
+<img src="assets/deploy.gif" width="32" alt=""><br>
 <strong>DEPLOYMENT</strong><br>
 <sub>FastAPI · Flutter · APIs</sub>
 </td>
@@ -107,76 +64,62 @@ Bennett University · 2024–2028 · **CGPA 8.8**
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-<img src="assets/language.gif" width="34">
+<img src="assets/language.gif" width="34" alt="">
 
 ### Language & Foundation Models
 
-**Machine Translation**  
-Low-resource Kokborok → English NMT using Meta M2M100.
+**Machine Translation** — Low-resource Kokborok → English NMT using Meta M2M100.
 
-**LLMs / RAG**  
-Retrieval-augmented and language-model based AI systems.
+**LLMs / RAG** — Retrieval-augmented and language-model based AI systems.
 
 </td>
 
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-<img src="assets/speech.gif" width="34">
+<img src="assets/speech.gif" width="34" alt="">
 
 ### Speech & Biometrics
 
-**Speaker Verification**  
-ECAPA-TDNN based voice authentication.
+**Speaker Verification** — ECAPA-TDNN based voice authentication.
 
-**Speech Recognition**  
-Whisper-based speech-to-text and intent extraction.
+**Speech Recognition** — Whisper-based speech-to-text and intent extraction.
 
 </td>
 
 </tr>
-
 <tr>
 
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-<img src="assets/trust.gif" width="34">
+<img src="assets/trust.gif" width="34" alt="">
 
 ### Explainable & Trustworthy AI
 
-**Explainable AI**  
-Feature-level explanations and model interpretation.
+**Explainable AI** — Feature-level explanations and model interpretation.
 
-**Security**  
-AI systems for secure authentication and cyber-threat detection.
+**Security** — AI systems for secure authentication and cyber-threat detection.
 
 </td>
 
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-<img src="assets/deploy.gif" width="34">
+<img src="assets/deploy.gif" width="34" alt="">
 
 ### Financial ML
 
-**Option Pricing**  
-Deep residual correction of Black–Scholes European option prices using sequence models.
+**Option Pricing** — Deep residual correction of Black–Scholes European option prices using sequence models.
 
 </td>
 
 </tr>
 </table>
 
-<br>
-
 <p align="center">
-<sub>
-Fine-tuning · NMT · Speaker Verification · ASR · Anti-Spoofing · XAI · Evaluation · Data Preprocessing
-</sub>
-</p>
-
-<p align="center">
-<strong>RESEARCH → EXPERIMENT → EVALUATE → DEPLOY</strong>
+  <sub>Fine-tuning · NMT · Speaker Verification · ASR · Anti-Spoofing · XAI · Evaluation · Data Preprocessing</sub>
+  <br>
+  <strong>RESEARCH → EXPERIMENT → EVALUATE → DEPLOY</strong>
 </p>
 
 <a id="projects"></a>
@@ -186,121 +129,105 @@ Fine-tuning · NMT · Speaker Verification · ASR · Anti-Spoofing · XAI · Eva
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-<img src="assets/language.gif" width="34">
+<img src="assets/language.gif" width="34" alt="">
 
 ### 01 · Kokborok → English NMT
 
 Low-resource neural machine translation for Kokborok → English.
 
-**38K** sentence pairs  
-**M2M100-418M** · PyTorch · Transformers
+**BLEU 70.56** · **METEOR 0.76** · **ROUGE-L 0.80**
 
-<br>
+38K sentence pairs · M2M100-418M · PyTorch · Transformers
 
-**BLEU 70.56**  
-**METEOR 0.76** · **ROUGE-L 0.80**
-
-<br>
-
-Published in **2026 — CRC Press / Taylor & Francis**
-
-<br><br>
-
-<a href="https://github.com/Pranjal099/kokborok-english-neural-machine-translation"><strong>Repository</strong></a>
-&nbsp;&nbsp;
-<a href="https://doi.org/10.1201/9781003743767-121"><strong>DOI</strong></a>
-&nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?user=k59ikhAAAAAJ&hl=en"><strong>Scholar</strong></a>
+Published in 2026 — CRC Press / Taylor & Francis
 
 </td>
 
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-<img src="assets/speech.gif" width="34">
+<img src="assets/speech.gif" width="34" alt="">
 
 ### 02 · VoicePay
 
 End-to-end voice payment research prototype combining speaker verification, anti-spoofing, ASR, payment intent extraction, and mobile deployment.
 
-<br>
-
-**186** speakers  
-**9,660** training · **1,074** validation  
-**5,000** genuine/impostor trials
-
-<br>
-
-ECAPA-TDNN · AASIST · Whisper  
-Flutter · FastAPI · SQLite
-
-<br>
-
 **EER 5.88% → 3.52%**
 
-<br><br>
+186 speakers · 9,660 training · 1,074 validation · 5,000 genuine/impostor trials
 
-<a href="https://github.com/Pranjal099/Voicepay"><strong>Mobile</strong></a>
-&nbsp;·&nbsp;
-<a href="https://github.com/Pranjal099/voice-auth-api"><strong>Backend</strong></a>
-&nbsp;·&nbsp;
-<a href="https://github.com/Pranjal099/Voicepay/releases/tag/v1.0.0"><strong>Release</strong></a>
-&nbsp;·&nbsp;
+ECAPA-TDNN · AASIST · Whisper · Flutter · FastAPI · SQLite
+
+</td>
+
+</tr>
+<tr>
+
+<td valign="top">
+
+<a href="https://github.com/Pranjal099/kokborok-english-neural-machine-translation"><strong>Repository</strong></a> ·
+<a href="https://doi.org/10.1201/9781003743767-121"><strong>DOI</strong></a> ·
+<a href="https://scholar.google.com/citations?user=k59ikhAAAAAJ&amp;hl=en"><strong>Scholar</strong></a>
+
+</td>
+
+<td valign="top">
+
+<a href="https://github.com/Pranjal099/Voicepay"><strong>Mobile</strong></a> ·
+<a href="https://github.com/Pranjal099/voice-auth-api"><strong>Backend</strong></a> ·
+<a href="https://github.com/Pranjal099/Voicepay/releases/tag/v1.0.0"><strong>Release</strong></a> ·
 <a href="https://huggingface.co/spaces/Pranjal99/voicepay-HF"><strong>Live</strong></a>
 
 </td>
 
 </tr>
-
 <tr>
 
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-<img src="assets/deploy.gif" width="34">
+<img src="assets/deploy.gif" width="34" alt="">
 
 ### 03 · Deep Residual Option Pricing
 
 **Deep Residual Correction of Black–Scholes European Option Prices Using an LSTM-Transformer Network**
 
-Research on learning residual corrections to Black–Scholes European option prices using deep sequence models.
-
-<br>
+Learning residual corrections to Black–Scholes European option prices using deep sequence models.
 
 **Research paper in preparation**
 
-<br>
-
-Collaboration involving researchers associated with **IIT Patna, IIM Ahmedabad, and Bennett University**.
-
-<br><br>
-
-<sub>Repository to be added when confirmed.</sub>
+Collaboration involving researchers associated with IIT Patna, IIM Ahmedabad, and Bennett University.
 
 </td>
 
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-<img src="assets/trust.gif" width="34">
+<img src="assets/trust.gif" width="34" alt="">
 
 ### 04 · SOAR-X
 
 **Security Orchestration, Automation & Response using Explainable AI**
 
-**9M+** network records  
-Random Forest classification  
-SHAP feature-level explanations  
-Risk scores · Severity levels
+**9M+ network records**
 
-<br>
+Random Forest classification · SHAP feature-level explanations · Risk scores · Severity levels
 
 FastAPI inference · Vercel deployment
 
-<br>
+*Personal contribution: data processing, ML pipeline, model training/optimization, explainability, and security insight generation.*
 
-Personal contribution: data processing, ML pipeline, model training/optimization, explainability, and security insight generation.
+</td>
 
-<br><br>
+</tr>
+<tr>
+
+<td valign="top">
+
+<sub>Paper in preparation</sub>
+
+</td>
+
+<td valign="top">
 
 <a href="https://github.com/Pranjal099/SoarX"><strong>Repository</strong></a>
 
@@ -309,12 +236,6 @@ Personal contribution: data processing, ML pipeline, model training/optimization
 </tr>
 </table>
 
-<br>
-
-<p align="center">
-<sub>Research · Experimentation · Engineering · Deployment</sub>
-</p>
-
 <a id="experience"></a>
 
 ## Experience
@@ -322,38 +243,35 @@ Personal contribution: data processing, ML pipeline, model training/optimization
 <table>
 <tr>
 
-<td width="70%" valign="top">
+<td valign="top" width="50%">
 
-<img src="assets/speech.gif" width="34">
+<img src="assets/speech.gif" width="34" alt="">
 
 ### Research Intern
+
 **Biomedical and Speech Processing Lab · IIIT Naya Raipur**
 
-**27 May – 10 July 2026 · 6 weeks**
+27 May – 10 July 2026 · 6 weeks
 
 End-to-end AI-powered voice payment application developed through the IIIT-NR Outreach Program.
 
-<br>
-
-**ECAPA-TDNN · AASIST · Whisper · Flutter · FastAPI · SQLite**
-
-<br>
+ECAPA-TDNN · AASIST · Whisper · Flutter · FastAPI · SQLite
 
 **Mentors:** Dr. Anurag Singh · Er. Om Nath Singh
 
 </td>
 
-<td width="30%" valign="top">
+<td valign="top" width="50%">
 
-<img src="assets/deploy.gif" width="34">
+<img src="assets/deploy.gif" width="34" alt="">
 
-### Research collaboration
+### Research Collaboration
 
-**Option Pricing Research**
+**Option Pricing Research · IIT Patna · IIM Ahmedabad · Bennett University**
 
-IIT Patna  
-IIM Ahmedabad  
-Bennett University
+Deep residual correction of Black–Scholes European option prices using an LSTM-Transformer network.
+
+Research paper in preparation
 
 </td>
 
@@ -368,22 +286,18 @@ Bennett University
 <tr>
 <td valign="top">
 
-<img src="assets/language.gif" width="36">
+<img src="assets/language.gif" width="34" alt="">
 
 ### Developing a Neural Machine Translation Tool for Kokborok-to-English: A Step Toward Preserving Indigenous Languages
 
 **Sanchali Das · Pranjal Gautam · Mainak Sarkar**
 
-**Published in 2026 — CRC Press / Taylor & Francis**
+Published in 2026 — **CRC Press / Taylor & Francis**
 
 Research on low-resource Kokborok-to-English neural machine translation using Meta's M2M100 multilingual model.
 
-<br><br>
-
-<a href="https://doi.org/10.1201/9781003743767-121"><strong>DOI</strong></a>
-&nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?user=k59ikhAAAAAJ&hl=en"><strong>Google Scholar</strong></a>
-&nbsp;&nbsp;
+<a href="https://doi.org/10.1201/9781003743767-121"><strong>DOI</strong></a> ·
+<a href="https://scholar.google.com/citations?user=k59ikhAAAAAJ&amp;hl=en"><strong>Google Scholar</strong></a> ·
 <a href="https://github.com/Pranjal099/kokborok-english-neural-machine-translation"><strong>Repository</strong></a>
 
 </td>
@@ -397,18 +311,30 @@ Research on low-resource Kokborok-to-English neural machine translation using Me
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
 ### Research Paper Presentation
 
-**ICSDS-2025**  
-20–21 December 2025
+**ICSDS-2025** · 20–21 December 2025
 
-Presented:
+Presented: *Developing a Neural Machine Translation Tool for Kokborok-to-English: A Step Toward Preserving Indigenous Languages*
 
-*Developing a Neural Machine Translation Tool for Kokborok-to-English: A Step Toward Preserving Indigenous Languages*
+</td>
 
-<br>
+<td valign="top" width="50%">
+
+### Research Internship
+
+**IIIT Naya Raipur** · 27 May – 10 July 2026
+
+Six-week AI/ML research internship through the IIIT-NR Outreach Program.
+
+</td>
+
+</tr>
+<tr>
+
+<td valign="middle" align="center">
 
 <a href="./assets/credentials/icsds-2025-presentation-certificate.pdf">
   <img
@@ -417,26 +343,9 @@ Presented:
     width="100%">
 </a>
 
-<br>
-
-<p align="center">
-<a href="./assets/credentials/icsds-2025-presentation-certificate.pdf">
-<strong>VIEW CERTIFICATE ↗</strong>
-</a>
-</p>
-
 </td>
 
-<td width="50%" valign="top">
-
-### Research Internship
-
-**IIIT Naya Raipur**  
-27 May – 10 July 2026
-
-Six-week AI/ML research internship through the IIIT-NR Outreach Program.
-
-<br>
+<td valign="middle" align="center">
 
 <a href="./assets/credentials/iiitnr-internship-certificate.pdf">
   <img
@@ -445,13 +354,20 @@ Six-week AI/ML research internship through the IIIT-NR Outreach Program.
     width="100%">
 </a>
 
-<br>
+</td>
 
-<p align="center">
-<a href="./assets/credentials/iiitnr-internship-certificate.pdf">
-<strong>VIEW CERTIFICATE ↗</strong>
-</a>
-</p>
+</tr>
+<tr>
+
+<td align="center">
+
+<a href="./assets/credentials/icsds-2025-presentation-certificate.pdf"><strong>VIEW CERTIFICATE ↗</strong></a>
+
+</td>
+
+<td align="center">
+
+<a href="./assets/credentials/iiitnr-internship-certificate.pdf"><strong>VIEW CERTIFICATE ↗</strong></a>
 
 </td>
 
@@ -462,40 +378,20 @@ Six-week AI/ML research internship through the IIIT-NR Outreach Program.
 
 ## Contact
 
-<table>
-<tr>
-
-<td width="55%" valign="middle">
-
-### Let's build something useful.
-
-Research collaborations across:
-
-**NLP · Speech AI · Explainable AI · Secure AI**
-
-</td>
-
-<td width="45%" valign="middle" align="center">
-
-<a href="https://www.linkedin.com/in/pranjal99/"><strong>LINKEDIN</strong></a>
-
-<br><br>
-
-<a href="https://scholar.google.com/citations?user=k59ikhAAAAAJ&hl=en"><strong>GOOGLE SCHOLAR</strong></a>
-
-<br><br>
-
-<a href="mailto:pranjalofficial32@gmail.com"><strong>EMAIL</strong></a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
+<p align="center">
+  <strong>Let's build something useful.</strong>
+  <br>
+  Research collaborations across NLP · Speech AI · Explainable AI · Secure AI
+</p>
 
 <p align="center">
-<img src="assets/deploy.gif" width="28">
-<br>
-<sub><strong>Published · Ongoing · Deployed</strong></sub>
+  <a href="https://www.linkedin.com/in/pranjal99/"><strong>LINKEDIN</strong></a> &nbsp;·&nbsp;
+  <a href="https://scholar.google.com/citations?user=k59ikhAAAAAJ&amp;hl=en"><strong>GOOGLE SCHOLAR</strong></a> &nbsp;·&nbsp;
+  <a href="mailto:pranjalofficial32@gmail.com"><strong>EMAIL</strong></a>
+</p>
+
+<p align="center">
+  <img src="assets/deploy.gif" width="28" alt="">
+  <br>
+  <sub><strong>Published · Ongoing · Deployed</strong></sub>
 </p>
