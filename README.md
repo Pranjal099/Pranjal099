@@ -387,16 +387,13 @@ Six-week AI/ML research internship through the IIIT-NR Outreach Program.
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pranjal099&amp;hide_border=true&amp;area=true&amp;line=58A6FF&amp;point=58A6FF&amp;area_color=58A6FF&amp;bg_color=0d1117&amp;color=c9d1d9">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pranjal099&amp;hide_border=true&amp;area=true&amp;line=58A6FF&amp;point=58A6FF&amp;area_color=58A6FF&amp;bg_color=ffffff&amp;color=24292f">
-    <img alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjal099&amp;hide_border=true&amp;area=true&amp;line=58A6FF&amp;point=58A6FF&amp;area_color=58A6FF&amp;bg_color=ffffff&amp;color=24292f" width="100%">
-  </picture>
-</p>
+## GitHub Activity
 
 <p align="center">
-  <sub>Contribution graph refreshes automatically every 12 hours</sub>
+  <img
+    src="https://raw.githubusercontent.com/Pranjal099/Pranjal099/output/github-snake.svg"
+    alt="GitHub contribution snake"
+    width="100%">
 </p>
 
 <a id="contact"></a>
