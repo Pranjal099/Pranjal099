@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+  <title id="title">PRANJAL — AI/ML Research · NLP · Speech AI · Explainable AI</title>
+  <desc id="desc">Minimal light research portfolio banner.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#0891b2"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#0f172a" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="420" rx="24" fill="#f8fafc"/>
+  <rect width="1600" height="420" rx="24" fill="url(#grid)"/>
+  <rect x="72" y="72" width="1456" height="2" fill="url(#g)" opacity=".9"/>
+  <circle cx="1460" cy="74" r="5" fill="#0891b2"/>
+  <circle cx="1480" cy="74" r="5" fill="#7c3aed"/>
+  <text x="80" y="190" fill="#0f172a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="72" font-weight="700" letter-spacing="2">PRANJAL</text>
+  <text x="84" y="246" fill="#334155" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="500">AI/ML Research · NLP · Speech AI · Explainable AI</text>
+  <text x="84" y="306" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Research → implementation → evaluation → deployment</text>
+  <path d="M1190 325 C1240 285 1275 350 1320 305 S1410 255 1515 315" fill="none" stroke="url(#g)" stroke-width="3" opacity=".75"/>
+  <circle cx="1190" cy="325" r="5" fill="#0891b2"/>
+  <circle cx="1320" cy="305" r="5" fill="#7c3aed"/>
+  <circle cx="1515" cy="315" r="5" fill="#0891b2"/>
+</svg>
