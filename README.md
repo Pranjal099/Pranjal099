@@ -20,7 +20,7 @@
 
 <a id="about"></a>
 
-## <img src="assets/icons/about.svg" alt="" width="32" height="32" align="absmiddle"> About
+## <img src="assets/about.svg" alt="" width="32" height="32" align="absmiddle"> About
 
 ### AI/ML Researcher · Builder
 
@@ -32,19 +32,19 @@ I work across **language, speech, explainability, and secure AI** — from model
 <tr>
 
 <td align="center" valign="top" width="25%">
-<img src="assets/icons/language.svg" width="44" alt=""><br>
+<img src="assets/language.svg" width="44" alt=""><br>
 <strong>LANGUAGE</strong><br>
 <sub>NLP · LLMs · RAG · NMT</sub>
 </td>
 
 <td align="center" valign="top" width="25%">
-<img src="assets/icons/speech.svg" width="44" alt=""><br>
+<img src="assets/speech.svg" width="44" alt=""><br>
 <strong>SPEECH</strong><br>
 <sub>ASV · ASR · Anti-Spoofing</sub>
 </td>
 
 <td align="center" valign="top" width="25%">
-<img src="assets/icons/trust.svg" width="44" alt=""><br>
+<img src="assets/trust.svg" width="44" alt=""><br>
 <strong>TRUST</strong><br>
 <sub>XAI · Security · Evaluation</sub>
 </td>
