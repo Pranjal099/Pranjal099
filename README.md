@@ -381,14 +381,19 @@ Six-week AI/ML research internship through the IIIT-NR Outreach Program.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranjal099/Pranjal099/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranjal099/Pranjal099/output/github-snake.svg">
-    <img alt="Animated GitHub contribution graph" src="https://raw.githubusercontent.com/Pranjal099/Pranjal099/output/github-snake-dark.svg" width="100%">
-  </picture>
-</p>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Pranjal099/Pranjal099/output/github-snake-dark.svg">
 
-<p align="center">
-  <sub>Contribution graph refreshes automatically every 12 hours</sub>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Pranjal099/Pranjal099/output/github-snake.svg">
+
+    <img
+      src="https://raw.githubusercontent.com/Pranjal099/Pranjal099/output/github-snake-dark.svg"
+      alt="Animated GitHub contribution graph"
+      width="100%">
+  </picture>
 </p>
 
 <a id="contact"></a>
@@ -402,8 +407,10 @@ Six-week AI/ML research internship through the IIIT-NR Outreach Program.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pranjal99/"><strong>LINKEDIN</strong></a> &nbsp;·&nbsp;
-  <a href="https://scholar.google.com/citations?user=k59ikhAAAAAJ&amp;hl=en"><strong>GOOGLE SCHOLAR</strong></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/pranjal99/"><strong>LINKEDIN</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://scholar.google.com/citations?user=k59ikhAAAAAJ&amp;hl=en"><strong>GOOGLE SCHOLAR</strong></a>
+  &nbsp;·&nbsp;
   <a href="mailto:pranjalofficial32@gmail.com"><strong>EMAIL</strong></a>
 </p>
 
